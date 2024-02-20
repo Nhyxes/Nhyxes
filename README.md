@@ -6,10 +6,11 @@
 <h2 align="left">About me</h2>
   🌹 - Learning web development and cyber security.
   
+  
 <h3 align="center">Tech Stack</h3>
 <h4>School learning</h4>
 
-<img scr="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img scr="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img scr="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img scr="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img scr="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">

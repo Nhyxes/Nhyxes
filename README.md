@@ -1,4 +1,4 @@
- h1 👋 Hi, I’m Bruno
+<h1 align="center">👋 Hi everyone, I’m Bruno</h1>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning web developpement
 - 💞️ I’m looking to collaborate on the blockchain

@@ -3,9 +3,9 @@
 </h1>
 
 <h2 align="left">About me</h2>
-  🌹 - Learning web development and cyber security. <br>
-  🎶 - Learning Ableton Live 
-  
+  🌹 - Learning web development. <br>
+  🎶 - Learning Ableton Live. <br>
+  💻 - Learning cyber security.
   
 <h3 align="center">Tech Stack</h3>
 

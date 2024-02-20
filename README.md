@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi everyone, I’m Bruno</h1>
+<h1 align="center"> <img scr="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json">👋 Hi everyone, I’m Bruno</h1>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning web developpement
 - 💞️ I’m looking to collaborate on the blockchain
@@ -6,7 +6,6 @@
 - 😄 Pronouns: Nhyxes
 -⚡ Fun fact: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Nhyxes/Nhyxes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

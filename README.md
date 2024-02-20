@@ -4,6 +4,8 @@
 
 <h2 align="left">About me</h2>
   🌹 - Learning web development and cyber security.
+  🎶 - Learning Ableton Live 
+  
   
 <h3 align="center">Tech Stack</h3>
 
@@ -33,6 +35,7 @@
 <h3>Security platform</h3>
 <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00">
 <a href="https://tryhackme.com/p/morphea" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/morphea.png" alt="TryHackMe"></a>
+
 
 
 

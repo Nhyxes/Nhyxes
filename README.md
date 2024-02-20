@@ -7,7 +7,8 @@
   🌹 learning web development
 <h3 align="center">Tech Stack</h3>
 <h3>School learning</h3>
-<img scr="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+![image]({BadgeURLHere})
+<img scr="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}">
 <img scr="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img scr="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img scr="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">

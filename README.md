@@ -1,4 +1,7 @@
-<h1 align="center"> <img scr="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json">👋 Hi everyone, I’m Bruno</h1>
+<h1 align="center"> <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture> Hi everyone, I’m Bruno</h1>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning web developpement
 - 💞️ I’m looking to collaborate on the blockchain

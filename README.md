@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bruno
+ h1 👋 Hi, I’m Bruno
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning web developpement
 - 💞️ I’m looking to collaborate on the blockchain

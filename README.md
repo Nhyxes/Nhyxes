@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="left">About me</h2>
-  🌹 - Learning web development and cyber security.
+  🌹 - Learning web development and cyber security. <br>
   🎶 - Learning Ableton Live 
   
   
